@@ -59,6 +59,11 @@ body {
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	display: flex
+}
+
+.left {
+	width: 30%;
 }
 
 p {
@@ -185,7 +190,6 @@ strong {
 #address {
 	display: none;
 }
-
 
 
 /*

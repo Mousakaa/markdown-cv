@@ -2,90 +2,95 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div class="left">
+![image](assets/arthur.png)
+
+## Info
+* 21 years old
+* Male
+* 1.82 m
+
+## Spoken languages
+
+<span><img src="assets/french.png">French</img><progress value="1">Native</progress></span>
+<span><img src="assets/english.png">English</img><progress value="4" max="5">C1</progress></span>
+<span><img src="assets/spanish.png">Spanish</img><progress value="3" max="5">B2</progress></span>
+<span><img src="assets/norwegian.png">Norwegian</img><progress value="1" max="5">Beginner</progress></span>
+<span><img src="assets/japanese.png">Japanese</img><progress value="1" max="10">Beginner</progress></span>
+
+## Skills
+* Usage of usual software (Word, Excel, Inkscape, Fusion 360)
+* Programmation languages :
+<span>Python<progress value="9" max="10">XXXXXXXXX_</progress></span>
+<span>OCaml<progress value="8" max="10">XXXXXXXX_\_</progress></span>
+<span>C<progress value="7" max="10">XXXXXXX_\_\_</progress></span>
+<span>HTML/CSS<progress value="7" max="10">XXXXXXX_\_\_</progress></span>
+<span>C++<progress value="3" max="10">XXX_\_\_\_\_\_\_</progress></span>
+<span>Bash<progress value="7" max="10">XXXXXXX_\_\_</progress></span>
+* Mathematics : Undergraduate level
+* Electronics : Basic to intermediate knowledge
+* Driver's licence
 </div>
 
+<div class="right">
+# Arthur Gaudard
+Engineering student, IT enthusiast and musician.
 
-## Currently
+<div id="webaddress">
+<a href="mailto:arthur.gaudard@isen-ouest.yncrea.fr">Email me</a>
+| <a href="https://github.com/Mousakaa">My Github</a>
+| <a>06 03 49 27 02</a>
+</div>
 
-Standing on the shoulders of giants
+## About me
 
-### Specialized in
+Hardworking and passionate as a student, I am looking for an experience-wise fulfilling job, that is worth the work I put into it. I am usually quick to understand what is asked of me and to learn new work methods, as it is what I am interested in.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Studies
 
+`2016 - 2019`
+__Lycée Jacques Prévert - Savenay (France, 44)__
+* Baccalauréat Général série S (Sciences), option Advanced Mathematics - __Mention "Très Bien" (above 80%)__
 
-### Research interests
+`2019 - 2021`
+__CPGE (Preparatory Class), Lycée Saint-Stanislas - Nantes (France, 44)__
+* MP (Mathematics, Physics and IT)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2021 - 2024`
+__ISEN (IT and electronnics engineering school) - Brest (France, 29)__
+* TOEIC passed with 975 points out of 990
+* Specialization into embedded systems engineering
 
+## Experience
 
-## Education
+`2014 - 2018`
+__Vice-president__ - Junior-association "Besné-Us"  
+Skills acquired :
+* responsibility
+* team work
+* budget managment
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`
+__Champagne grape picker__  
+Skills acquired :
+* Motivation
+* Work in harsh conditions
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Trips abroad__ - Great-Britain, Spain, Greece and Canada  
+Skills acquired :
+* Language fluency and authenticity (english and spanish)
+* Adaptability to unusual environments and differences between cultures
 
-- Sizar
+## Hobbies
 
-`1667 - death`
-__Trinity College, Cambridge__
+I play jazz piano and I love music (I was in a rock band called [Crimson Lily](https://youtu.be/kEpob4iMEhI) for some time).
 
-- Fellow
+I practiced hip-hop for ten-ish years with [Harmonie Danse](https://harmonie-danse-44.com/) (see me [here](http://www.youtube.com/watch?v=vVe8Q2kfiiA)).
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+I also like tinkering with electronic stuff and seeing what comes out, and I code during my personal time. I have used Arduino for a long time and Raspberry lately for those projects.
+</div>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: April 2022 -->
