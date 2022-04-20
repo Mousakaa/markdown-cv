@@ -37,7 +37,7 @@ title: Arthur Gaudard
 Engineering student, IT enthusiast and musician.
 
 <div id="webaddress">
-<a href="mailto:arthur.gaudard@isen-ouest.yncrea.fr">Email me</a>
+<a href="mailto:arthur.gaudard@isen-ouest.yncrea.fr">arthur.gaudard@isen-ouest.yncrea.fr</a>
 | <a href="https://github.com/Mousakaa">My Github</a>
 | <a>06 03 49 27 02</a>
 </div>
