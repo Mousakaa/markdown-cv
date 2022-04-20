@@ -21,12 +21,12 @@ title: Arthur Gaudard
 ## Skills
 * Usage of usual software (Word, Excel, Inkscape, Fusion 360)
 * Programmation languages :
-<span>Python<progress value="9" max="10">XXXXXXXXX\_</progress></span>
-<span>OCaml<progress value="8" max="10">XXXXXXXX\_\_</progress></span>
-<span>C<progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
-<span>HTML/CSS<progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
-<span>C++<progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress></span>
-<span>Bash<progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
+	* Python <progress value="9" max="10">XXXXXXXXX\_</progress>
+	* <span>OCaml <progress value="8" max="10">XXXXXXXX\_\_</progress></span>
+	* <span>C <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
+	* <span>HTML/CSS <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
+	* <span>C++ <progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress></span>
+	* <span>Bash <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
 * Mathematics : Undergraduate level
 * Electronics : Basic to intermediate knowledge
 * Driver's licence
