@@ -64,12 +64,8 @@ body {
 }
 
 .left {
-	width: 30%;
+	width: min(500px, 25%);
 	border-right: 1px solid #ccc;
-}
-
-.right {
-	width: 60%;
 }
 
 p {
@@ -169,7 +165,7 @@ img {
 
 img:not(#face) {
 	width: 30px;
-	border: 2px solid #777;
+	border: 1px solid #a00;
 }
 
 #face {
@@ -182,10 +178,16 @@ progress {
 	float: right;
 	border: none;
 	height: 5px;
-	width: 50%;
+	width: 60%;
 	border-radius: 2.5px;
 	margin-right: 10%;
-	margin-top: 50%;
+	margin-top: 7px;
+}
+
+img + progress {
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
 }
 
 progress::-moz-progress-bar {
