@@ -12,22 +12,22 @@ title: Arthur Gaudard
 
 ## Spoken languages
 
-* <span><img src="assets/french.png" alt="French"/><progress value="1">Native</progress></span>
-* <span><img src="assets/english.png" alt="English"/><progress value="4" max="5">C1</progress></span>
-* <span><img src="assets/spanish.png" alt="Spanish"/><progress value="3" max="5">B2</progress></span>
-* <span><img src="assets/norwegian.png" alt="Norwegian"/><progress value="1" max="5">Beginner</progress></span>
-* <span><img src="assets/japanese.png" alt="Japanese"/><progress value="1" max="10">Beginner</progress></span>
+* ![French](assets/french.png)<progress value="1"> Native</progress>
+* ![English](assets/english.png)<progress value="4" max="5"> C1</progress>
+* ![Spanish](assets/spanish.png)<progress value="3" max="5"> B2</progress>
+* ![Norwegian](assets/norwegian.png)<progress value="1" max="5"> Beginner</progress>
+* ![Japanese](assets/japanese.png)<progress value="1" max="10"> Beginner</progress>
 
 ## Skills
 * Usage of usual software (Word, Excel, Inkscape, Fusion 360)
 * Programmation languages :
 	* Python <progress value="9" max="10">XXXXXXXXX\_</progress>
-	* <span>OCaml <progress value="8" max="10">XXXXXXXX\_\_</progress></span>
-	* <span>C <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
-	* <span>HTML/CSS <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
-	* <span>C++ <progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress></span>
-	* <span>Bash <progress value="7" max="10">XXXXXXX\_\_\_</progress></span>
-* Mathematics : Undergraduate level
+	* OCaml <progress value="8" max="10">XXXXXXXX\_\_</progress>
+	* C <progress value="7" max="10">XXXXXXX\_\_\_</progress>
+	* HTML/CSS <progress value="7" max="10">XXXXXXX\_\_\_</progress>
+	* C++ <progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress>
+	* Bash <progress value="7" max="10">XXXXXXX\_\_\_</progress>
+* Mathematics : Graduate level
 * Electronics : Basic to intermediate knowledge
 * Driver's licence
 
