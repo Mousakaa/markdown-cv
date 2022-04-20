@@ -156,14 +156,19 @@ h3 {
 	width: 20%;
 }
 
-img {
-	width: 100px;
+img:not(#face) {
+	margin-top: -50%;
+	width: 50px;
 	border-radius: 50%;
 }
 
 #face {
-	width: 60% !important;
+	width: 60%;
 	box-shadow: 0 0 10px #aaa;
+}
+
+progress {
+	float: right;
 }
 
 a {

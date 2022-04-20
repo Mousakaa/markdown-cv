@@ -4,7 +4,7 @@ title: Arthur Gaudard
 ---
 
 <div markdown="1" class="left">
-<img id="face" src="assets/arthur.jpg" alt="My face"/>
+<img id="face" src="assets/arthur.png" alt="My face"/>
 
 ## Info
 
