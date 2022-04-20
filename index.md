@@ -4,9 +4,11 @@ title: Arthur Gaudard
 ---
 
 <div markdown="1" class="left">
+
 ![My face](assets/arthur.png)
 
 ## Info
+
 * 21 years old
 * Male
 * 1.82 m
@@ -20,6 +22,7 @@ title: Arthur Gaudard
 * ![Japanese](assets/japanese.png)<progress value="1" max="10"> Beginner</progress>
 
 ## Skills
+
 * Usage of usual software (Word, Excel, Inkscape, Fusion 360)
 * Programmation languages :
 	* Python <progress value="9" max="10">XXXXXXXXX\_</progress>
@@ -34,6 +37,7 @@ title: Arthur Gaudard
 </div>
 
 <div markdown="1" class="right">
+
 # Arthur Gaudard
 Engineering student, IT enthusiast and musician.
 
