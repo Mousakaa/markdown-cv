@@ -3,6 +3,7 @@ layout: cv
 title: Arthur Gaudard
 ---
 
+<div markdown="1" class="left">
 ![My face](assets/arthur.png)
 
 ## Info
@@ -30,9 +31,9 @@ title: Arthur Gaudard
 * Mathematics : Graduate level
 * Electronics : Basic to intermediate knowledge
 * Driver's licence
+</div>
 
----
-
+<div markdown="1" class="right">
 # Arthur Gaudard
 Engineering student, IT enthusiast and musician.
 
@@ -94,6 +95,7 @@ I play jazz piano and I love music (I was in a rock band called [Crimson Lily](h
 I practiced hip-hop for ten-ish years with [Harmonie Danse](https://harmonie-danse-44.com/) (see me [here](http://www.youtube.com/watch?v=vVe8Q2kfiiA)).
 
 I also like tinkering with electronic stuff and seeing what comes out, and I code during my personal time. I have used Arduino for a long time and Raspberry lately for those projects.
+</div>
 
 <!-- ### Footer
 
