@@ -4,8 +4,7 @@ title: Arthur Gaudard
 ---
 
 <div markdown="1" class="left">
-
-![My face](assets/arthur.png)
+<img id="face" src="assets/arthur.jpg" alt="My face"/>
 
 ## Info
 
@@ -29,11 +28,13 @@ title: Arthur Gaudard
 	* OCaml <progress value="8" max="10">XXXXXXXX\_\_</progress>
 	* C <progress value="7" max="10">XXXXXXX\_\_\_</progress>
 	* HTML/CSS <progress value="7" max="10">XXXXXXX\_\_\_</progress>
-	* C++ <progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress>
 	* Bash <progress value="7" max="10">XXXXXXX\_\_\_</progress>
+	* C++ <progress value="3" max="10">XXX\_\_\_\_\_\_\_</progress>
+	* SQL <progress value="2" max="10">XX\_\_\_\_\_\_\_\_</progress>
 * Mathematics : Graduate level
 * Electronics : Basic to intermediate knowledge
 * Driver's licence
+
 </div>
 
 <div markdown="1" class="right">
@@ -42,9 +43,9 @@ title: Arthur Gaudard
 Engineering student, IT enthusiast and musician.
 
 <div id="webaddress">
-<a href="mailto:arthur.gaudard@isen-ouest.yncrea.fr">arthur.gaudard@isen-ouest.yncrea.fr</a>
+<a>06 03 49 27 02</a>
+| <a href="mailto:arthur.gaudard@isen-ouest.yncrea.fr">arthur.gaudard@isen-ouest.yncrea.fr</a>
 | <a href="https://github.com/Mousakaa">My Github</a>
-| <a>06 03 49 27 02</a>
 </div>
 
 ## About me
@@ -99,6 +100,7 @@ I play jazz piano and I love music (I was in a rock band called [Crimson Lily](h
 I practiced hip-hop for ten-ish years with [Harmonie Danse](https://harmonie-danse-44.com/) (see me [here](http://www.youtube.com/watch?v=vVe8Q2kfiiA)).
 
 I also like tinkering with electronic stuff and seeing what comes out, and I code during my personal time. I have used Arduino for a long time and Raspberry lately for those projects.
+
 </div>
 
 <!-- ### Footer
